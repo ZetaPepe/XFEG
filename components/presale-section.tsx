@@ -241,7 +241,7 @@ export function PresaleSection() {
         )}
         <div className="mt-4 text-center text-sm text-muted-foreground">
           <div>Start: Sep 14, 2025 20:00 Beijing Time</div>
-          <div>End: Sep 14, 2025 22:00 Beijing Time</div>
+          <div>End: Sep 14, 2025 20:10 Beijing Time</div>
         </div>
       </CardContent>
     </Card>
