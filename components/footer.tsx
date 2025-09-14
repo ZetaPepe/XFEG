@@ -28,7 +28,7 @@ export function Footer() {
             </a>
           </div>
           <div className="text-sm text-muted-foreground">
-            <p>© 2024 XFEG. Made with ❤️ for the meme community.</p>
+            <p>© 2025 XFEG. Made with ❤️ for the meme community.</p>
             <p className="mt-2">Originally from X Layer • Now everywhere</p>
           </div>
         </div>
