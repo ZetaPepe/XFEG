@@ -29,7 +29,7 @@ export function PresaleSection() {
   const PRESALE_GOAL = 200 // 200 OKB goal
 
   const PRESALE_START = new Date("2025-09-14T20:00:00+08:00") // Beijing Time
-  const PRESALE_END = new Date("2025-09-14T22:00:00+08:00") // Beijing Time
+  const PRESALE_END = new Date("2025-09-14T20:10:00+08:00") // Beijing Time
 
   const fetchPresaleBalance = async () => {
     setIsLoadingBalance(true)
